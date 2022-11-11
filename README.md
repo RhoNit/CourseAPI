@@ -1,1 +1,1 @@
-# Course-API
+# Course API: FastAPI starter project
